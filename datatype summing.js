@@ -12,7 +12,7 @@ let userEmail;
 const id = Symbol('1234')
 const anotherId = Symbol('1234')
 
-console.log(id === anotherId);
+// console.log(id === anotherId);
 
 
 
@@ -22,10 +22,13 @@ console.log(id === anotherId);
 
 const heros = ["noruto","one pish","sanjighu"];
 let myObj={
-    name: "maurya"
-    age:19,
+    name: "maurya",
+    age: 18,
 }
 
 const myFunction = function(){
     console.log("hello world");
 }
+
+console.log(typeof myFunction);
+
