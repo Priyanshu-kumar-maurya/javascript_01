@@ -27,8 +27,19 @@ let myObj={
 }
 
 const myFunction = function(){
-    console.log("hello world");
+    // console.log("hello world");
 }
 
-console.log(typeof myFunction);
+// console.log(typeof myFunction);
 
+
+
+
+//++++++++++++++++++++++++++++++++++++++
+
+//stack (primitive), Heao (Non-primitive)
+
+
+let myYoutubename = "@p.kmauryajii574"
+
+let anothername = ""
