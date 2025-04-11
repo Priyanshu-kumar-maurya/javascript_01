@@ -14,7 +14,6 @@ const anotherId = Symbol('1234')
 
 // console.log(id === anotherId);
 
-datatype summing.js
 // reference (Non primitive)
 
 //Array, Objects, functions
